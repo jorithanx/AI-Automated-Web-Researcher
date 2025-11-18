@@ -111,3 +111,6 @@ This is a prototype that demonstrates functional automated research capabilities
 - Ollama
 - Python packages listed in `requirements.txt`
 - Recommended models: `phi3:3.8b-mini-128k-instruct` or `phi3:14b-medium-128k-instruct` (with custom context length as specified)
+
+
+<!-- hobby-session-7-1 -->
