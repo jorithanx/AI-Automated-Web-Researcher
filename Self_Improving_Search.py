@@ -467,3 +467,5 @@ Respond in a clear, concise, and informative manner.
 # hobby-session-13-1
 
 # hobby-session-24-1
+
+# hobby-session-26-1
