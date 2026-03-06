@@ -239,3 +239,5 @@ class StrategicAnalysisParser:
 # hobby-session-6-1
 
 # hobby-session-16-1
+
+# hobby-session-20-2
